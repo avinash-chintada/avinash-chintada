@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intilligence and Web Development
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Artificial Intilligence and Web Development projects
-- 📫 How to reach me https://www.linkedin.com/in/avinash-chintada-a2605623a/
+- 📫 How to reach me https://www.linkedin.com/in/avinashchintada
 - 😄 Pronouns: He
 - ⚡ Fun fact: Passionate about open-source projects
 
